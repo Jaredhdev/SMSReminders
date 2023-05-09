@@ -41,3 +41,4 @@ A web application that allows users to create reminders and get notified via SMS
    ```
 7. Copy the forwarding URL and append /sms to the end of it.
 8. Paste the URL into the Twilio console under the Messaging section.
+9. Send a text message to your Twilio number to test it out!
